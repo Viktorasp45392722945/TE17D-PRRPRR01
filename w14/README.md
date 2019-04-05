@@ -1,4 +1,4 @@
-## Utvärdering - Hänga gubbe
+## Utvärdering - Hänga gubbej
 
 ### Skriv en utvärdering om ditt spel:
 * Vilka olika funktionaliteter finns i ditt spel? Finns det några buggar? Kan programmet krascha?
